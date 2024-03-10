@@ -1,6 +1,6 @@
 # deep-learning-challenge
 
-++**Neural Network Analysis**++
+__**Neural Network Analysis**__
 
 Overview
 
