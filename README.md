@@ -1,4 +1,3 @@
-# deep-learning-challenge
 
 # **Neural Network Analysis**
 
@@ -29,8 +28,7 @@ The purpose of this analysis is to create a deep learning model or neural networ
      I've used Random Forest, which I found effective in predicting outcomes with multiple categories of data since it is robust to outliers and non-linear data.
 
 
-**Note**
-To complete this challenge, I referred to the slides and activities from class that were provided and attended office hours. I used Xpert Learning Assistant to answer some questions related to preprocessing the data.
+
 
 
 
